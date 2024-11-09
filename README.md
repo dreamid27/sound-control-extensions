@@ -17,25 +17,10 @@ We hope this feature enhances your browsing experience!
 
 ### Main Interface
 
-![Main Interface](./screenshots/1.png)
-_Main application window with volume controls_
-
-![Volume Min](./screenshots/2.png)
-_Configuration options for volume adjustments_
-
----
-
-### Volume Min
-
-![Volume Min](./screenshots/3.png)
-_Configuration options for volume adjustments_
-
----
-
-![Volume Min](./screenshots/4.png)
-_Configuration options for volume adjustments_
-
----
+<img src="./screenshots/1.png" width="600" alt="Main Interface"/>
+<img src="./screenshots/2.png" width="600" alt="Main Interface"/>
+<img src="./screenshots/3.png" width="600" alt="Main Interface"/>
+<img src="./screenshots/4.png" width="600" alt="Main Interface"/>
 
 ## Getting Started
 
