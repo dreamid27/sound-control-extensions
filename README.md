@@ -20,9 +20,19 @@ We hope this feature enhances your browsing experience!
 ![Main Interface](./screenshots/1.png)
 _Main application window with volume controls_
 
+![Volume Min](./screenshots/2.png)
+_Configuration options for volume adjustments_
+
+---
+
 ### Volume Min
 
 ![Volume Min](./screenshots/3.png)
+_Configuration options for volume adjustments_
+
+---
+
+![Volume Min](./screenshots/4.png)
 _Configuration options for volume adjustments_
 
 ---
