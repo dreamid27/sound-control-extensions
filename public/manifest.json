@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Sound Man",
+  "version": "1.0.0",
+  "description": "A simple volume control",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["scripting", "tabs", "activeTab", "storage", "tabCapture"],
+  "host_permissions": ["https://*/*", "http://*/*"]
+}

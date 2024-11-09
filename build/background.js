@@ -1,0 +1,1 @@
+chrome.tabs.onActivated.addListener(o=>{const{tabId:e}=o;chrome.storage.local.get([e.toString()],c=>{const t=c[e]??1;a(e,t)})});function a(o,e){chrome.scripting.executeScript({target:{tabId:o},func:c=>{document.querySelectorAll("audio, video").forEach(t=>{t instanceof HTMLMediaElement&&(t.volume=c)})},args:[e]})}
